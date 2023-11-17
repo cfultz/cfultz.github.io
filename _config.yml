@@ -33,7 +33,7 @@ mastondon:
 github_username:  cfultz
 
 # Build settings
-#theme: minima
+theme: minima
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
