@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[!](headshot.jpg)
+![Headshot from SuperComputing '22 in Dallas, Tx](headshot.jpg)
