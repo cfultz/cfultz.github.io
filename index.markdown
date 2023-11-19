@@ -4,11 +4,6 @@
 
 layout: home
 ---
-
-
-
-
-
 <span style="display: none;">
 <a href="https://cfultz.com/@cfultz" rel="me" target="_blank">cfultz.com</a>
 </span>
