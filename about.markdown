@@ -15,7 +15,7 @@ permalink: /about/
     }
 </style>
 
-![Headshot from SuperComputing '22 in Dallas, Tx](/imgs/headshot.jpg){: .image-right } Well, I guess I should tell you a little about me. Hello, I'm Caleb Fultz and I am a Tier III Linux System Admistrator for the [National Radio Astronomy Observtory](https://info.nrao.edu) and the [North American ALMA Science Center](https://science.nrao.edu/facilities/alma/facilities/alma/intro-naasc) located in Charlottesville, VA. I have a over 15 years of working experience with Linux, over 25 with Windows, and almost my entire life with electronics and computers of all sizes. I'm a strong proponent of open source, privacy, security, and freedom online and off. 
+![Headshot from SuperComputing '22 in Dallas, Tx](/imgs/headshot.jpg){: .image-right } Well, I guess I should tell you a little about me. Hello, I'm Caleb Fultz and I am a Tier III Linux System Admistrator for the [National Radio Astronomy Observtory](https://info.nrao.edu) and the [North American ALMA Science Center](https://science.nrao.edu/facilities/alma/facilities/alma/intro-naasc) located in Charlottesville, VA. I have a over 15 years of working experience with Linux, over 25 with Windows, and almost my entire life with electronics and computers of all sizes. I'm a strong proponent of open source, privacy, security, and freedom online and off. I am also A+ Certified by CompTIA for Windows Repair and Basic System Administration but rarely utilize it outside of my personal PC's and family's questions. I am a proud Dad of a little boy and enjoy my Subarus, GTI, and going on adventures with my girlfriend in my spare time.
 
 ## Cool Things I Do
 
