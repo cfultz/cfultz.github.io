@@ -30,13 +30,18 @@ I'm a sponsor of [The Tor Project](https://www.torproject.org/) both monetarily 
 
 ## Software I use
 
-I feel like  a list of emoji's of the icons for the applications I use may work best here because listing out software in words seems a bit... detached.
+I feel like a list of emoji's of the icons for the applications I use may work best here because spelling out software that I use seems a bit... detached.
 
 | Software      | Name  | Use     |
 | :---        |    :----:   |          ---: |
 | ![Android](/imgs/android.png){: .emoji }      | Android 14      | OS on my Pixel 7 Pro  |
 | ![Signal](/imgs/signal.png){: .emoji }  | Signal Messenger        | Encrypted Communication      |
+| ![Snapchat](/imgs/snapchat.png){: .emoji }  | Snapchat        | Groupchats with Friends      |
 | ![Tor Browser](/imgs/toronion.png){: .emoji }  | Tor Browser        | Bypassing and private browsing      |
 | ![Firefox](/imgs/firefox.png){: .emoji }   | Firefox        | Safer Clear Web Browsing      |
 | ![AlmaLinux](/imgs/alma.png){: .emoji }   | AlmaLinux        | Personal OpenHPC Cluster OS      |
-| ![Debian](/imgs/debian.png){: .emoji }  | Debian        | Person use OS      |
+| ![Debian](/imgs/debian.png){: .emoji }  | Debian        | Personal use OS      |
+| ![MatterMost](/imgs/mattermost.png){: .emoji }  | MatterMost        | Online text chat with friends and colleagues      |
+| ![Steam](/imgs/steam.png){: .emoji }  | Steam        | Purchase and playing of games on both Linux and Windows     |
+| ![Steam Deck](/imgs/steamdeck.png){: .emoji }  | Steam Deck        | Playing games on the go (and in Arch!)      |
+| ![Monero](/imgs/monero.png){: .emoji }  | Monero        | Online Crypto Payments and [Donations](## "46wgBffV9cL3Kbp25TwSHnYZjfZcnEpmB47bQVo6FYTidz5s9xiqTXxHQook3XGoLidpw21FyawFMWaxHCV8vdFm4tDHDcE")      |
