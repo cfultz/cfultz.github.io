@@ -30,8 +30,8 @@ mastondon:
 github_username:  cfultz
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
 #remote_theme: pages-themes/hacker
 plugins:
   - jekyll-feed
