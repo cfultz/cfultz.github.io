@@ -30,14 +30,16 @@ mastondon:
 github_username:  cfultz
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-minimal
 #remote_theme: pages-themes/hacker
 plugins:
   - jekyll-feed
   - jekyll/mastodon_webfinger
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
-show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
