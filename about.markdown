@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -10,8 +10,6 @@ permalink: /about/
       margin-left: 5px;
       margin-right: 5px;
       float: left;
-      width: 250px;
-      height: 250px;
     }
 </style>
 
