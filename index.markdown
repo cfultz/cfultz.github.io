@@ -14,14 +14,7 @@ layout: home
     </li>
   {% endfor %}
 </ul>
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+
 
 <span style="display: none;">
 <a href="https://cfultz.com/@cfultz" rel="me" target="_blank">cfultz.com</a>
