@@ -44,4 +44,4 @@ I feel like a list of emoji's of the icons for the applications I use may work b
 | ![MatterMost](/imgs/mattermost.png){: .emoji }  | MatterMost        | Online text chat with friends and colleagues      |
 | ![Steam](/imgs/steam.png){: .emoji }  | Steam        | Purchase and playing of games on both Linux and Windows     |
 | ![Steam Deck](/imgs/steamdeck.png){: .emoji }  | Steam Deck        | Playing games on the go (and in Arch!)      |
-| ![Monero](/imgs/monero.png){: .emoji }  | Monero        | Online Crypto Payments and [Donations](https://cfultz.pro/imgs/monero_qr.png)      |
+| ![Monero](/imgs/monero.png){: .emoji }  | Monero        | Online Crypto Payments and <a href="https://cfultz.pro/imgs/monero_qr.png" rel="me" target="_blank">Donations</a>]      |
