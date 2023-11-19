@@ -15,7 +15,7 @@ permalink: /about/
     }
 </style>
 
-![Headshot from SuperComputing '22 in Dallas, Tx](/imgs/headshot.jpg){: .image-right } Well, I guess I should tell you a little about me. Hello, I'm Caleb Fultz and I am a Tier III Linux System Admistrator for the [National Radio Astronomy Observtory](https://info.nrao.edu) and the [North American ALMA Science Center](https://science.nrao.edu/facilities/alma/facilities/alma/intro-naasc) located in Charlottesville, VA. I have a over 15 years of working experience with Linux, over 25 with Windows, and almost my entire life with electronics and computers of all sizes. I'm a strong proponent of open source, privacy, security, and freedom online and off. I am also A+ Certified by CompTIA for Windows Repair and Basic System Administration but rarely utilize it outside of my personal PC's and family's questions. I am a proud Dad of a little boy and enjoy my Subarus, GTI, and going on adventures with my girlfriend in my spare time.
+![Headshot from SuperComputing '22 in Dallas, Tx](/imgs/headshot.jpg){: .image-right } Well, I guess I should tell you a little about me. Hello, I'm Caleb Fultz and I am a Tier III Linux System Admistrator for the [National Radio Astronomy Observtory](https://info.nrao.edu) and the [North American ALMA Science Center](https://science.nrao.edu/facilities/alma/facilities/alma/intro-naasc) located in Charlottesville, VA. I have a over 15 years of working experience with Linux, over 25 with Windows, and almost my entire life with electronics and computers of all sizes. I'm a strong proponent of open source, privacy, security, and freedom online and off. I am also A+ Certified by CompTIA for Windows Repair and Basic System Administration but rarely utilize it outside of my personal PC's and family's questions. I am a proud Dad of a little boy and enjoy my Subarus, GTI, and going on adventures with my girlfriend in my spare time. I have attended every SuperComputing Conference since 2019. Denver is still the best city the hold it in, hands down. 
 
 ## Cool Things I Do
 
@@ -23,4 +23,11 @@ I'm a sponsor of [The Tor Project](https://www.torproject.org/) both monetarily 
 
 ## Things I use
 
-I'm an avid user of Android and Linux. My personal desktops and servers mostly run Debian but my work devices are all running RedHat, Rocky, and soon to be converted to AlmaLinux! 
+I'm an avid user of Android and Linux. My personal desktops and servers mostly run Debian but my work devices are all running RedHat, Rocky, and soon to be converted to AlmaLinux! I feel like  a list of emoji's of the icons for the applications I use may work best here because listing out software in words seems a bit... detached.
+
+- [![Android]](/imgs/android.png)]
+- [![Signal]](/imgs/signal.png)]
+- [![Tor Browser]](/imgs/toronion.png)]
+- [![Firefox]](/imgs/firefox.png)]
+- [![AlmaLinux]](/imgs/alma.png)]
+- [![Debian]](/imgs/debian.png)]
