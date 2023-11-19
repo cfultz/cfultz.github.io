@@ -23,4 +23,4 @@ I'm a sponsor of [The Tor Project](https://www.torproject.org/) both monetarily 
 
 ## Things I use
 
-I'm an avid user of Android and Linux. My personal desktops and servers mostly run Debian (cause f~~u~~ck Ubuntu and it's [old spyware tactics](https://www.gnu.org/philosophy/ubuntu-spyware.en.html)) but my work devices are all running RedHat, Rocky, and soon to be converted to AlmaLinux! 
+I'm an avid user of Android and Linux. My personal desktops and servers mostly run Debian (cause fuck Ubuntu and it's [old spyware tactics](https://www.gnu.org/philosophy/ubuntu-spyware.en.html)) but my work devices are all running RedHat, Rocky, and soon to be converted to AlmaLinux! 
