@@ -25,9 +25,9 @@ I'm a sponsor of [The Tor Project](https://www.torproject.org/) both monetarily 
 
 I'm an avid user of Android and Linux. My personal desktops and servers mostly run Debian but my work devices are all running RedHat, Rocky, and soon to be converted to AlmaLinux! I feel like  a list of emoji's of the icons for the applications I use may work best here because listing out software in words seems a bit... detached.
 
-- [![Android]](/imgs/android.png)]
-- [![Signal]](/imgs/signal.png)]
-- [![Tor Browser]](/imgs/toronion.png)]
-- [![Firefox]](/imgs/firefox.png)]
-- [![AlmaLinux]](/imgs/alma.png)]
-- [![Debian]](/imgs/debian.png)]
+- ![Android](/imgs/android.png)]
+- ![Signal](/imgs/signal.png)]
+- ![Tor Browser](/imgs/toronion.png)]
+- ![[Firefox](/imgs/firefox.png)]
+- ![AlmaLinux](/imgs/alma.png)]
+- ![Debian](/imgs/debian.png)]
