@@ -28,13 +28,15 @@ permalink: /about/
 
 I'm a sponsor of [The Tor Project](https://www.torproject.org/) both monetarily and as a 5x Relay Operator. I created and moderate [/r/TomatoFTW](https://reddit.com/r/tomatoftw) and [/r/PlexPosters](https://reddit.com/r/plexposters). Both of those communities have well over 10,000 users each and are frequented every day by the same. I speedrun [Doom 64](https://www.speedrun.com/doom_64_2020/levels?h=BG_Max-Keyboard__Mouse&x=vdo8986k-ql67g2j8.z197ydjl) on PC when I have time and currently hold second place in [Staging Area](https://www.speedrun.com/doom_64_2020/runs/zxoxqg5z). I run my own Mastodon instance over on <a href="https://cfultz.com/@cfultz" rel="me" target="_blank">cfultz.com</a>. I have several [GitHub](https://github.com/cfultz) repos that may be useful, check them out (see what I did there?)!
 
-## Things I use
+## Software I use
 
-I'm an avid user of Android and Linux. My personal desktops and servers mostly run Debian but my work devices are all running RedHat, Rocky, and soon to be converted to AlmaLinux! I feel like  a list of emoji's of the icons for the applications I use may work best here because listing out software in words seems a bit... detached.
+I feel like  a list of emoji's of the icons for the applications I use may work best here because listing out software in words seems a bit... detached.
 
-- ![Android](/imgs/android.png){: .emoji }
-- ![Signal](/imgs/signal.png){: .emoji }
-- ![Tor Browser](/imgs/toronion.png){: .emoji }
-- ![Firefox](/imgs/firefox.png){: .emoji }
-- ![AlmaLinux](/imgs/alma.png){: .emoji }
-- ![Debian](/imgs/debian.png){: .emoji }
+| Software      | Name  | Use     |
+| :---        |    :----:   |          ---: |
+| ![Android](/imgs/android.png){: .emoji }      | Android 14      | OS on my Pixel 7 Pro  |
+| ![Signal](/imgs/signal.png){: .emoji }  | Signal Messenger        | Encrypted Communication      |
+| ![Tor Browser](/imgs/toronion.png){: .emoji }  | Tor Browser        | Bypassing and private browsing      |
+| ![Firefox](/imgs/firefox.png){: .emoji }   | Firefox        | Safer Clear Web Browsing      |
+| ![AlmaLinux](/imgs/alma.png){: .emoji }   | AlmaLinux        | Personal OpenHPC Cluster OS      |
+| ![Debian](/imgs/debian.png){: .emoji }  | Debian        | Person use OS      |
