@@ -15,6 +15,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     description = "Hi! I'm Caleb Fultz and I'm a SysAdmin for the NRAO and NAASC in Charlottesville, VA" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    front_page_content = ["about"]
 
     # MENU PLACEHOLDER
     # Menu dict keys:
