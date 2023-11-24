@@ -10,7 +10,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 # disqusShortname = "yourDisqusShortname"
 
 [params]
-    brand = "Poison"                      # name of your site - appears in the sidebar
+    brand = "CFultz.pro"                      # name of your site - appears in the sidebar
     brand_image = "/images/brand.jpg"    # path to the image shown in the sidebar
     description = "Hi! I'm Caleb Fultz and I'm a SysAdmin for the NRAO and NAASC in Charlottesville, VA" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
