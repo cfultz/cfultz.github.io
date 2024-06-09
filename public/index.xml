@@ -6,8 +6,15 @@
     <description>Recent content on Caleb Fultz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Move over NRAO, here I come UVA!</title>
+      <link>http://localhost:1313/posts/moving-to-uva/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/moving-to-uva/</guid>
+      <description>It&amp;rsquo;s been real! For the past 5 years, I have slaved at the National Radio Astronomy Observatory. And by slaved, I mean s-l-a-v-e-d. I made less money than typical System Administrators/Engineers at my level doing pretty much anything and everything you can imagine to keep the Observatory&amp;rsquo;s HPC environment functioning as best as it could with the EXTREMELY limited budget that we are given to work with after the Science staff have their way with it.</description>
+    </item>
     <item>
       <title>Breathing life back into my 2015 Macbook Pro</title>
       <link>http://localhost:1313/posts/endevouros-mac-2015-retina/</link>

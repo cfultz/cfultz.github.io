@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hpc/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/moving-to-uva/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/apple/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/endevouros-mac-2015-retina/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/macbook/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/migrating-to-arch/</loc>
