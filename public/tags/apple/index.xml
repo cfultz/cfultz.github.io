@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Caleb Fultz</title>
+    <link>http://localhost:1313/tags/apple/</link>
+    <description>Recent content in Apple on Caleb Fultz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breathing life back into my 2015 Macbook Pro</title>
+      <link>http://localhost:1313/posts/endevouros-mac-2015-retina/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/endevouros-mac-2015-retina/</guid>
+      <description>A New Dawn I hate e-waste. With a passion. So much so that I pulled my old Macbook Pro from the retirement home that was one of my book bags and started the process of installing EndeavourOS. While I know that I could use tools like OpenCore and plenty of patching tools where I could continue to use the Mac using macOS, but I&amp;rsquo;m not a fan of proprietary software being hacked to work on hardware it isn&amp;rsquo;t intended to do so.</description>
+    </item>
+  </channel>
+</rss>

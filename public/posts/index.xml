@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Caleb Fultz</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Caleb Fultz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breathing life back into my 2015 Macbook Pro</title>
+      <link>http://localhost:1313/posts/endevouros-mac-2015-retina/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/endevouros-mac-2015-retina/</guid>
+      <description>A New Dawn I hate e-waste. With a passion. So much so that I pulled my old Macbook Pro from the retirement home that was one of my book bags and started the process of installing EndeavourOS. While I know that I could use tools like OpenCore and plenty of patching tools where I could continue to use the Mac using macOS, but I&amp;rsquo;m not a fan of proprietary software being hacked to work on hardware it isn&amp;rsquo;t intended to do so.</description>
+    </item>
+    <item>
+      <title>Migrating to Arch Linux</title>
+      <link>http://localhost:1313/posts/migrating-to-arch/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/migrating-to-arch/</guid>
+      <description>A bit of (personal) history I&amp;rsquo;ve been through many operating systems in my time as a Linux user. I started out (back in the day) with Ubuntu 5.04 that I had to order off the Internet and have it shipped to my house. How insane is that? Of course, I was on dialup a the time (and still not much better&amp;hellip; uploading this to Github using LTE&amp;hellip;) so it would&amp;rsquo;ve been absolutely out of the question for me to even attempt a download of anything more than a few megabytes at the risk of my parents wanting to use the telephone.</description>
+    </item>
+    <item>
+      <title>Hello There (again)!</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>Hey there, Internet friends! It&amp;rsquo;s been a while since I&amp;rsquo;ve shared some updates from my end, but I&amp;rsquo;m excited to report that things have been going absolutely fantastic lately.&#xA;As many of you know, I work at the National Radio Astronomy Observatory (NRAO), and let me tell you - we&amp;rsquo;re making some incredible progress with our SLURM cluster running AlmaLinux. It&amp;rsquo;s been a team effort, but we&amp;rsquo;ve managed to squeeze out even more performance from our machines, which is just amazing.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World on Caleb Fultz</title>
+    <link>http://localhost:1313/tags/hello-world/</link>
+    <description>Recent content in Hello World on Caleb Fultz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There (again)!</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>Hey there, Internet friends! It&amp;rsquo;s been a while since I&amp;rsquo;ve shared some updates from my end, but I&amp;rsquo;m excited to report that things have been going absolutely fantastic lately.&#xA;As many of you know, I work at the National Radio Astronomy Observatory (NRAO), and let me tell you - we&amp;rsquo;re making some incredible progress with our SLURM cluster running AlmaLinux. It&amp;rsquo;s been a team effort, but we&amp;rsquo;ve managed to squeeze out even more performance from our machines, which is just amazing.</description>
+    </item>
+  </channel>
+</rss>
