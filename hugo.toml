@@ -1,4 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cfultz.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
+title = 'Caleb Fultz'
+theme = 'PaperMod'
+
+[params]
+    env = "production"
+    title = "Caleb Fultz"
+    description = "Linux Systems Engineer | HPC | Retro Gaming"
+    author = "Caleb Fultz"
+
+[author]
+    name = "Caleb Fultz"
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/cfultz"
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/calebfultz"
+
+[[params.socialIcons]]
+    name = "mastodon"
+    url = "https://social.linux.pizza/@cfultz"
