@@ -1,7 +1,7 @@
 ---
 title: "Rg35xxpro Or: How I Learned to Love Porting"
 date: 2026-03-06T22:46:52-05:00
-draft: true
+draft: false
 tags: ["Linux", "Retro Handheld"]
 categories: ["Tech"]
 author: "Caleb Fultz"

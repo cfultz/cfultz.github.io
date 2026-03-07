@@ -7,6 +7,9 @@ paginate = 5
 [author]
     name = "Caleb Fultz"
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [params]
     env = "production"
     title = "Caleb Fultz"
