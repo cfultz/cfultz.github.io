@@ -2,24 +2,59 @@ baseURL = 'https://cfultz.github.io/'
 languageCode = 'en-us'
 title = 'Caleb Fultz'
 theme = 'PaperMod'
+paginate = 5
+
+[author]
+    name = "Caleb Fultz"
 
 [params]
     env = "production"
     title = "Caleb Fultz"
     description = "Linux Systems Engineer | HPC | Retro Gaming"
     author = "Caleb Fultz"
+    
+    # Profile Mode (The landing page layout)
+    [params.profileMode]
+        enabled = true
+        title = "Caleb Fultz"
+        subtitle = "Linux Systems Engineer @ UVA | HPC | Retro Gaming"
+        imageUrl = "https://github.com/cfultz.png"
+        imageWidth = 120
+        imageHeight = 120
+        imageTitle = "Caleb"
 
-[author]
-    name = "Caleb Fultz"
+    # Social Icons
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/cfultz"
 
-[[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/cfultz"
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/calebfultz"
 
-[[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/calebfultz"
+    [[params.socialIcons]]
+        name = "mastodon"
+        url = "https://social.linux.pizza/@cfultz"
 
-[[params.socialIcons]]
-    name = "mastodon"
-    url = "https://social.linux.pizza/@cfultz"
+    # Technical Features
+    [params.assets]
+        disableHLJS = false # Enables syntax highlighting for your code snippets
+
+# Navigation Menu
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 30
