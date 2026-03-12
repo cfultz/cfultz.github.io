@@ -44,7 +44,7 @@ paginate = 5
         url = "https://steamcommunity.com/id/thesippycup"
 
     [[params.socialIcons]]
-        name = "retroachievements"
+        name = "retro achievements"
         url = "https://retroachievements.org/user/cfultz"
 
     [[params.socialIcons]]
