@@ -10,5 +10,6 @@
     </g>
 </svg>
 {{- else -}}
-{{- partial "svg.html" . -}}
+    {{- /* Use the theme's original logic by looking inside the PaperMod theme directory */ -}}
+    {{- partial "svg.html" . -}}
 {{- end -}}
