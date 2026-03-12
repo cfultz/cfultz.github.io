@@ -2,7 +2,14 @@
     {{- range site.Params.socialIcons }}
     <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
         title="{{ (.title | default .name) | title }}">
-        {{ partial "svg.html" . }}
+        {{- /* Try to load the custom icon first */ -}}
+        {{- $custom := partial "custom_svg.html" . -}}
+        {{- if $custom -}}
+            {{ $custom | safeHTML }}
+        {{- else -}}
+            {{- /* If not custom, use the theme's standard icons */ -}}
+            {{ partial "svg.html" . }}
+        {{- end -}}
     </a>
     {{- end }}
 </div>
